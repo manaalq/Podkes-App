@@ -1,4 +1,4 @@
-# 🎧 Podkes App - Flutter UI Clone
+# 🎧 Podkes App
 
 ![Podkes Screenshot](https://paper-attachments.dropboxusercontent.com/s_CE298A44AC4BC1486B73C510A9E8123E7FE534010D93FBA37CE311619E6BA986_1739354051306_Screenshot+1446-08-13+at+12.47.45PM.png)
 
