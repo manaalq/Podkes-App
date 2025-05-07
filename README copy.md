@@ -43,7 +43,7 @@ Below are sample screens of the app:
 
 ---
 
-##  How to Run
+## How to Run
 
 1. Clone this repository:
 ```bash
