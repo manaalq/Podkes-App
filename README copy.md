@@ -22,7 +22,7 @@ A visually appealing and interactive podcast experience built with Flutter. This
 
 ##  Tech Stack
 
-- Flutter (3.3.0 or later)
+- Flutter 
 - Dart
 - Shimmer package (`shimmer: ^3.0.0`)
 
@@ -32,13 +32,14 @@ A visually appealing and interactive podcast experience built with Flutter. This
 
 Below are sample screens of the app:
 
-![Screenshot 1](assets/screenshot/image1.png)  
-![Screenshot 2](assets/screenshot/image2.png)  
-![Screenshot 3](assets/screenshot/image3.png)  
-![Screenshot 4](assets/screenshot/image4.png)  
-![Screenshot 5](assets/screenshot/image5.png)  
-![Screenshot 6](assets/screenshot/image6.png)  
-![Screenshot 7](assets/screenshot/image7.png)
+<img src="podke_app/assets/screenshots/image1.png" width="250">  
+<img src="podke_app/assets/screenshots/image2.png" width="250">  
+<img src="podke_app/assets/screenshots/image3.png" width="250">  
+<img src="podke_app/assets/screenshots/image4.png" width="250">  
+<img src="podke_app/assets/screenshots/image5.png" width="250">  
+<img src="podke_app/assets/screenshots/image6.png" width="250">  
+<img src="podke_app/assets/screenshots/image7.png" width="250">
+
 
 ---
 
