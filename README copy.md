@@ -32,13 +32,13 @@ A visually appealing and interactive podcast experience built with Flutter. This
 
 Below are sample screens of the app:
 
-<img src="assets/screenshot/image1.png" width="300"/>
-<img src="assets/screenshot/image2.png" width="300"/>
-<img src="assets/screenshot/image3.png" width="300"/>
-<img src="assets/screenshot/image4.png" width="300"/>
-<img src="assets/screenshot/image5.png" width="300"/>
-<img src="assets/screenshot/image6.png" width="300"/>
-<img src="assets/screenshot/image7.png" width="300"/>
+<img src="podke_app/assets/screenshot/image1.png" width="300"/>
+<img src="podke_app/assets/screenshot/image2.png" width="300"/>
+<img src="podke_app/assets/screenshot/image3.png" width="300"/>
+<img src="podke_app/assets/screenshot/image4.png" width="300"/>
+<img src="podke_app/assets/screenshot/image5.png" width="300"/>
+<img src="podke_app/assets/screenshot/image6.png" width="300"/>
+<img src="podke_app/assets/screenshot/image7.png" width="300"/>
 
 
 ---
